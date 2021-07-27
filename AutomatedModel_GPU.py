@@ -1,5 +1,5 @@
 #This script reads image files from a folder and outputs the pedestrian-counting results to a CSV file
-#Image processing and deep learning tasks are performed on the CPU.
+#Image processing and deep learning tasks are performed on the GPU.
 
 from matplotlib import pyplot as plt
 from gluoncv import model_zoo, data, utils
