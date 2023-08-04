@@ -1,6 +1,6 @@
 # Pedestrian-Counting
 
-A deep learning model and image-scraper to count pedestrians from traffic camera images. The utilized deep learning model is the Faster R-CNN built upon the ResNet-50 architecture. Other deep learning models can easily be swapped in with the utilized GluonCV library.
+A deep learning pipeline and an image-scraper to count pedestrians from traffic camera images on 511NY. The utilized deep learning model is the Faster R-CNN built upon the ResNet-50 architecture, pre-trained on MS-COCO dataset. Other deep learning models can easily be swapped in with the utilized GluonCV library. This work represents a proof-of-concept, and higher accuracy can be achieved through more rigorous model training and a more specialized, labeled training dataset containing more similar images with labeled pedestrians.
 
 [Published Paper DOI](https://doi.org/10.1109/URTC54388.2021.9701649)
 
