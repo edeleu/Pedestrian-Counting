@@ -9,7 +9,7 @@ A deep learning pipeline and an image-scraper to count pedestrians from traffic 
 - E. Deleu, S. Elez, A. Gadodia, K. Macvaugh and G. Zhao, "Using Deep Learning for Urban Pedestrian Counting," 2021 IEEE MIT Undergraduate Research Technology Conference (URTC), Cambridge, MA, USA, 2021, pp. 1-5, doi: 10.1109/URTC54388.2021.9701649.
 
 ```bibtex
-@INPROCEEDINGS{9701649,
+@INPROCEEDINGS{deleu2021pedestrians,
   author={Deleu, Edward and Elez, Stefan and Gadodia, Ansh and Macvaugh, Kyra and Zhao, Grace},
   booktitle={2021 IEEE MIT Undergraduate Research Technology Conference (URTC)}, 
   title={Using Deep Learning for Urban Pedestrian Counting}, 
